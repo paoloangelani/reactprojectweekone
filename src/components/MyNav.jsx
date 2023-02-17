@@ -15,7 +15,7 @@ const MyNav = () => {
         <img
           src={logo}
           style={{ width: "100px", height: "55px" }}
-          alt="dogeflix logo"
+          alt="Netflix logo"
         />
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
